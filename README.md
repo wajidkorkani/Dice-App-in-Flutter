@@ -29,7 +29,7 @@ Make sure you have the following installed:
 1.  **Clone the repository** (if applicable, otherwise, download the project files):
 
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/wajidkorkani/Dice-App-in-Flutter.git
     cd dicee_app
     ```
 
