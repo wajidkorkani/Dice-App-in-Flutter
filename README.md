@@ -41,7 +41,7 @@ Make sure you have the following installed:
 
 3.  **Add Assets**:
     * Create an `Images` folder in the root of your project. Place your dice images (e.g., `dice1.png` through `dice6.png`) inside this folder.
-    * Create a `Sounds` folder in the root of your project. Place your dice roll sound file (e.g., `dice_roll.mp3`) inside this folder.
+    * Create a `Sounds` folder in the root of your project.
 
     Your `pubspec.yaml` file should then reference these assets like so:
 
